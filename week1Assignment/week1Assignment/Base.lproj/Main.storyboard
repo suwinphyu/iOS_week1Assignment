@@ -127,7 +127,7 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                         </subviews>
-                                        <color key="backgroundColor" red="0.79076552436142988" green="0.75889941504440939" blue="0.89813512559999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <color key="backgroundColor" red="0.89054939050000004" green="1" blue="0.26811506010000002" alpha="0.84705882349999995" colorSpace="custom" customColorSpace="displayP3"/>
                                         <constraints>
                                             <constraint firstItem="aGM-zF-71n" firstAttribute="centerX" secondItem="0NQ-pI-rIt" secondAttribute="centerX" id="6h9-5S-fMi"/>
                                             <constraint firstItem="aGM-zF-71n" firstAttribute="centerY" secondItem="0NQ-pI-rIt" secondAttribute="centerY" id="hB9-ch-hlp"/>
@@ -143,7 +143,7 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                         </subviews>
-                                        <color key="backgroundColor" red="1" green="0.55559105045038037" blue="0.74232704355860224" alpha="0.84705882349999995" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <color key="backgroundColor" red="0.23165836149999999" green="1" blue="0.17051403100000001" alpha="0.84705882349999995" colorSpace="custom" customColorSpace="displayP3"/>
                                         <constraints>
                                             <constraint firstItem="Puj-hQ-n14" firstAttribute="centerX" secondItem="Nlu-Wn-w2a" secondAttribute="centerX" id="J90-bv-Em9"/>
                                             <constraint firstItem="Puj-hQ-n14" firstAttribute="centerY" secondItem="Nlu-Wn-w2a" secondAttribute="centerY" id="i0X-xn-bVO"/>

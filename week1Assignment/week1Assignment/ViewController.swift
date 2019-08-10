@@ -38,7 +38,7 @@ class ViewController: UIViewController{
     
     @objc func selectDate(datePicker: UIDatePicker){
         let dateFormatter = DateFormatter()
-        dateFormatter.dateFormat = "dd/MM/yyyy"
+        dateFormatter.dateFormat = "yyyy/MM/dd"
         tfDOB.text = dateFormatter.string(from: datePicker.date)
         view.endEditing(true)
     }
